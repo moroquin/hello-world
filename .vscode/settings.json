@@ -1,5 +1,8 @@
 {
     "yaml.schemas": {
-        "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-playbook.json": "file:///home/oliver/workspace-courses/devOps/cicdcd/hello-world/regapp.yaml"
+        "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-playbook.json": [
+            "file:///home/oliver/workspace-courses/devOps/cicdcd/hello-world/regapp.yaml",
+            "file:///home/oliver/workspace-courses/devOps/cicdcd/hello-world/deploy.yml"
+        ]
     }
 }
