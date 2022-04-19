@@ -5,6 +5,7 @@
     <p>yeah</p>
     <p>yeah2</p>
     <p>Please fill in this form to create an account.</p>
+    <p>hola estrucutra de datos</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
