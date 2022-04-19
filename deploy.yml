@@ -1,0 +1,6 @@
+---
+- hosts: dockerhost
+
+  tasks:
+  - name: create container
+    command: docker run -d --name regapp-server -p 8080:8080 sierraoe/regapp:latest
